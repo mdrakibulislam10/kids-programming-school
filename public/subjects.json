@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "image": "./images/langLogo/cPlusPlus.png",
+        "class_name": "C++",
+        "description": "This is the first item. This is the first item. This is description."
+    },
+    {
+        "id": "2",
+        "image": "./images/langLogo/java.jpg",
+        "class_name": "Java",
+        "description": "This is the second item. This is the second item. This is description."
+    },
+    {
+        "id": "3",
+        "image": "./images/langLogo/javascript.png",
+        "class_name": "JavaScript",
+        "description": "This is the third item. This is the third item. This is description."
+    },
+    {
+        "id": "4",
+        "image": "./images/langLogo/python.webp",
+        "class_name": "Python",
+        "description": "This is the fourth item. This is the fourth item. This is description."
+    }
+]

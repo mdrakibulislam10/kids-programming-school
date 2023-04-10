@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "student_name": "John",
+        "image": "https://as2.ftcdn.net/v2/jpg/03/19/22/89/1000_F_319228936_PnTKQO8cmxSiLpmYh9LXcsIo9bhsL9ba.jpg",
+        "age": "12",
+        "location": {
+            "country_name": "USA",
+            "city_name": "New York"
+        }
+    },
+    {
+        "id": 2,
+        "student_name": "Sarah",
+        "image": "https://as2.ftcdn.net/v2/jpg/04/22/33/37/1000_F_422333712_NqfyhxEmSFvJu3UZ7o5GwxRHA56vZ1dn.jpg",
+        "age": "12",
+        "location": {
+            "country_name": "Canada",
+            "city_name": "Toronto"
+        }
+    },
+    {
+        "id": 3,
+        "student_name": "David",
+        "image": "https://as1.ftcdn.net/v2/jpg/05/03/93/42/1000_F_503934249_BpUcxa77chynjBdwnZ77bSqvvlF9sDov.jpg",
+        "age": "12",
+        "location": {
+            "country_name": "Australia",
+            "city_name": "Sydney"
+        }
+    },
+    {
+        "id": 4,
+        "student_name": "Emily",
+        "image": "https://img.freepik.com/free-vector/girl-with-laptop-table-white-background_1308-52074.jpg?w=740&t=st=1681083289~exp=1681083889~hmac=8b3b5068664aa4eeeddd7f970c796b13e91c17f421e73df87a1fa6d028ce963d",
+        "age": "12",
+        "location": {
+            "country_name": "USA",
+            "city_name": "Los Angeles"
+        }
+    },
+    {
+        "id": 5,
+        "student_name": "Javier",
+        "image": "https://media.istockphoto.com/id/1072418168/photo/busy-doing-home-work.jpg?s=2048x2048&w=is&k=20&c=1HDE8IXxJnOnkRkWN-JdZgJf4pYuveoMzZq10QiuZmE=",
+        "age": "12",
+        "location": {
+            "country_name": "Mexico",
+            "city_name": "Mexico City"
+        }
+    },
+    {
+        "id": 6,
+        "student_name": "Emma",
+        "image": "https://media.istockphoto.com/id/1464449535/photo/school-children-using-desktop-pcs-in-computer-lab.jpg?b=1&s=170667a&w=0&k=20&c=o7iumh2ms6D9-rrOaSzEn-OCTTN2dzZgM6SqkOKh3T0=",
+        "age": "12",
+        "location": {
+            "country_name": "Canada",
+            "city_name": "Vancouver"
+        }
+    },
+    {
+        "id": 7,
+        "student_name": "Ahmed",
+        "image": "https://images.unsplash.com/photo-1603695762547-fba8b88ac8ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "age": "12",
+        "location": {
+            "country_name": "Egypt",
+            "city_name": "Cairo"
+        }
+    },
+    {
+        "id": 8,
+        "student_name": "Mia",
+        "image": "https://plus.unsplash.com/premium_photo-1663127684755-34cb1b8a97ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "age": "12",
+        "location": {
+            "country_name": "USA",
+            "city_name": "Chicago"
+        }
+    },
+    {
+        "id": 9,
+        "student_name": "Hiroshi",
+        "image": "https://media.istockphoto.com/id/1301038879/photo/happy-girl-kid-uses-a-laptop-to-study-at-home-with-a-teacher-a-speech-therapist-distance.jpg?s=2048x2048&w=is&k=20&c=56NtBnn-KCqMIJ1mS59UI0S7M-W5N3ELVjuHUFGD99s=",
+        "age": "12",
+        "location": {
+            "country_name": "Japan",
+            "city_name": "Tokyo"
+        }
+    },
+    {
+        "id": 10,
+        "student_name": "Eva",
+        "image": "https://media.istockphoto.com/id/1226759859/photo/girl-with-headset-is-sitting-in-front-of-her-laptop.jpg?s=2048x2048&w=is&k=20&c=dJzkW6EYhpoHDYlSyBiD9v8VnhGvn42IM1j2c27RFbI=",
+        "age": "12",
+        "location": {
+            "country_name": "Spain",
+            "city_name": "Madrid"
+        }
+    }
+]
